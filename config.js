@@ -50,19 +50,19 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6283863727733', 'matt-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283864727733']
-global.prems = ['6283863727733']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6283113062379']
+global.prems = ['6283113062379']
+global.nomorbot = '6283113062379'
+global.nameown = 'MattModz'
+global.nomorown = '6283113062379'
+global.nomorown1 = '6283113062379'
+global.nomorown2 = '6283113062379'
+global.nomorwa = '6283113062379'
 global.limitawal = {
 
     premium: "Infinity",
